@@ -1,0 +1,22 @@
+  
+* .class
+
+# Мобильные инструменты для Java (J2ME)
+.mtj.tmp /
+
+# Файлы пакета #
+* .jar
+* .war
+* .ear
+
+# журналы сбоев виртуальной машины, см. http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid *
+
+.idea
+* .iml
+
+цель
+
+из
+* .log
+
