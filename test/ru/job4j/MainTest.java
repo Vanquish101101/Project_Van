@@ -12,3 +12,6 @@ public class MainTest {
         assertThat(result, is(excepted));
     }
 }
+
+
+vana durachek !
