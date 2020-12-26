@@ -1,4 +1,4 @@
-package ru.job4j;
+package ru.ivan;
 
 public class Main {
     public static void main(String [] args) {
