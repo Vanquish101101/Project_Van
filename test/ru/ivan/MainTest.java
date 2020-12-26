@@ -1,4 +1,4 @@
-package ru.job4j;
+package ru.ivan;
 
 import org.junit.Test;
 import static org.hamcrest.CoreMatchers.is;
@@ -13,5 +13,3 @@ public class MainTest {
     }
 }
 
-
-vana durachek !
