@@ -37,13 +37,28 @@ package ru.calculate;
                     "boolean– true или false.\n" +
                     "char– Любой символ. Символ в Java описывается одинарными кавычками.");
 
-        }
+            System.out.println("Д.З. - Переменные_1");
+            System.out.println(
+                    "int age = 18;\n" +
+                    "float length = 78.0332;\n" +
+                    "boolean baby = true;");
 
-        public static void main(String[] args) {
-            int age = 18;
-            float lengt = 78.0332;
-            boolean baby = true;
+            System.out.println("Д.З. - Переменные_2");
+
+            float weight = 70.3;
+            byte age = ; 37 // возраст
+            boolean gender = man; // пол
+            float growth = 178.5; // рост
+            int number_bricks = 1848474747; // количество кирпичей
+            long number_bacteria = 4345345L; // количество бактерий
+            double distance_to_space_objects = 4.9e; // расстояние до космических объектов
+            boolean work_permit = yes; // разрешение на работу
+            int file_size = 12312316; // размер файла
+
+
+
+
         }
 
     }
-}
+
