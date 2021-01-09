@@ -1,4 +1,4 @@
-package ru.ivan;
+package ru.calculate;
 
 public class Multiple {
 

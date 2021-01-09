@@ -1,6 +1,4 @@
-package ru.ivan;
-
-public class Calculate {
+package ru.calculate;
 
     public class Variables {
 
@@ -39,6 +37,12 @@ public class Calculate {
                     "boolean– true или false.\n" +
                     "char– Любой символ. Символ в Java описывается одинарными кавычками.");
 
+        }
+
+        public static void main(String[] args) {
+            int age = 18;
+            float lengt = 78.0332;
+            boolean baby = true;
         }
 
     }
