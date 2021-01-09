@@ -46,7 +46,7 @@ package ru.calculate;
             System.out.println("Д.З. - Переменные_2");
 
             float weight = 70.3;
-            byte age = ; 37 // возраст
+            byte age =37;  // возраст
             boolean gender = man; // пол
             float growth = 178.5; // рост
             int number_bricks = 1848474747; // количество кирпичей
