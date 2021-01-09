@@ -1,4 +1,4 @@
-package ru;
+package ru.calculate;
 
 public class Calculate {
 }
