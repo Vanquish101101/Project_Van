@@ -1,4 +1,4 @@
-package ru.ivan;
+package ru;
 
 import org.junit.Test;
 import static org.hamcrest.CoreMatchers.is;
