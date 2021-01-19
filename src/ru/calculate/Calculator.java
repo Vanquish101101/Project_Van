@@ -4,7 +4,7 @@ public class Calculator {
         int one = 1;
         int two = 2;
         int result = one + two;
-        Sysyem.out.println(result);
+        System.out.println(result);
         System.out.println("Д.З. операции с переменными");
         int six = 6;
         int four = 4;
