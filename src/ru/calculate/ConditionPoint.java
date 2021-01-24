@@ -13,6 +13,6 @@ public class ConditionPoint {
     }
     public static void main (String[] args) {
         double result =  ConditionPoint.distance(1,2,4,5);
-        System.out.println("result (0, 0) to (2, 0)" + result);
+        System.out.println("result (0, 0) to (2, 0) = " + result);
     }
 }
