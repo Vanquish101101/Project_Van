@@ -3,11 +3,11 @@ package ru.calculate;
 public class Converter {
 
         public static int rubleToEuro(int value) {
-            int rsl = value / 70; /* формула перевода рублей в евро */
+            int rsl = value / 70;
             return rsl;
         }
         public static int rubleToDollar (int value) {
-            int rsl = value / 60; /* формула перевода рублей в доллары */
+            int rsl = value / 60;
             return rsl;
         }
         public static void main (String[] args) {
