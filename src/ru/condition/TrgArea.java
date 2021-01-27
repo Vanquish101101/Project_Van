@@ -1,6 +1,6 @@
-package ru.calculate;
+package ru.condition;
 
-public class ConditionTrgArea {
+public class TrgArea {
     public static double area (double a, double b, double c) {
         double p1 = (a + b + c) / 2; /* нахождение полупериметра_1 */
         double p2 = p1 * (p1 - a) * (p1 - b) * (p1 - c); /* вычмсление площади_операция 1 */
@@ -8,7 +8,7 @@ public class ConditionTrgArea {
         return s;
     }
     public static void main (String[] args) {
-        double rslt = ConditionTrgArea.area(4,3,5);
+        double rslt = TrgArea.area(4,3,5);
         System.out.println("area triangle: (a = 4, b = 3, c = 5) = " + rslt);
     }
 }
