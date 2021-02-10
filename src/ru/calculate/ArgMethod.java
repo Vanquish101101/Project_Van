@@ -8,5 +8,6 @@ public class ArgMethod {
         String name = "Terminator";
         ArgMethod.hello(name);
     }
+    call
 }
 
