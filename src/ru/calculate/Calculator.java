@@ -9,14 +9,14 @@ public class Calculator {
         int six = 6;
         int four = 4;
         int five = 5;
-        int res_1;
-        int res_2;
-        int res_3;
-        res_1 = six / 2;
-        res_2 = five - 2;
-        res_3 = four * 2;
-        System.out.println(res_1);
-        System.out.println(res_2);
-        System.out.println(res_3);
+        int res1;
+        int res2;
+        int res3;
+        res1 = six / 2;
+        res2 = five - 2;
+        res3 = four * 2;
+        System.out.println(res1);
+        System.out.println(res2);
+        System.out.println(res3);
     }
 }
