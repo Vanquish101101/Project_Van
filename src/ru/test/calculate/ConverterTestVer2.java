@@ -17,5 +17,4 @@ public class ConverterTestVer2 {
     public void rubleToEuro() {
         assertThat(Converter.rubleToDollar(140), is(2));
     }
-
 }
