@@ -1,4 +1,4 @@
-package ru.calculate;
+package calculate;
 public class Calculator {
     public static void main(String[] args) {
         int one = 1;

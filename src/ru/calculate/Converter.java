@@ -1,4 +1,4 @@
-package ru.calculate;
+package calculate;
 public class Converter {
         public static int rubleToEuro(int value) {
             int rsl = value / 70;
