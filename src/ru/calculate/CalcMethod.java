@@ -1,4 +1,4 @@
-package ru.calculate;
+package calculate;
 public class CalcMethod {
     public static void plus(int first, int second) {
         int result = first + second;

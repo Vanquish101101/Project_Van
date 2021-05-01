@@ -1,4 +1,4 @@
-package ru.condition;
+package condition;
 
 public class SqArea {
     public static double square (int p, int k) {

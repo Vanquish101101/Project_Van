@@ -1,4 +1,4 @@
-package ru.calculate;
+package calculate;
 
 public class Types {
     public static void main(String[] Args) {

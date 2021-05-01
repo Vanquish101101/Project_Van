@@ -1,4 +1,4 @@
-package ru.calculate;
+package calculate;
 public class MathFunc {
     public static int func1 (int x) {
         int y = x * x + 1;
