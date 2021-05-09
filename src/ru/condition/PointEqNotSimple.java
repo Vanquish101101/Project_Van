@@ -17,3 +17,4 @@ public class PointEqNotSimple {
         System.out.println(eq(10, 10, 10, 10));
     }
 }
+//[] - Оператор if  с применением return. До упрощения кода
