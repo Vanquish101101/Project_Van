@@ -4,8 +4,8 @@ public class Triangle {
 
     public static boolean exist(double ab, double bc, double ac) {
 
-       boolean a = (ac + bc > ab) && (ab + ac > bc) && (ab + bc > ac);
-       return  a ? true: false;
+       boolean res = (ac + bc > ab) && (ab + ac > bc) && (ab + bc > ac);
+       return  res ? true: false;
 
     }
 
