@@ -10,6 +10,7 @@ public class AlertDivByZero {
         if (number == 0) {
             System.out.println("Could not div by 0.");
         }
+
     }
 }
 
